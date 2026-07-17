@@ -1,5 +1,7 @@
 torch==1.12.1
 pretty-midi==0.2.9
-numpy==1.19.1
+numpy==1.23.5
 mir_eval==0.6
 mido==1.2.9
+pandas==1.5.3
+setuptools==75.3.2
