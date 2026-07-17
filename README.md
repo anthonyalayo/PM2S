@@ -17,3 +17,8 @@ To train a model from scratch, please refer to the instructions in `dev/README.m
 ## Cite
 
 > L. Liu, Q. Kong, V. Morfi and E. Benetos, "Performance MIDI-to-Score Conversion by Neural Beat Tracking" in Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 2022.
+
+## To Run Anthony's Script
+
+
+    python convert_my_midi.py
